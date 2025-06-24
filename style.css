@@ -1,0 +1,8 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+/*ajuste color columna izquierda*/
+.bg-primary {
+    background-color: #294f5e !important;
+}
