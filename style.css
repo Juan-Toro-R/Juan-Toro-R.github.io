@@ -6,3 +6,11 @@
 .bg-primary {
     background-color: #294f5e !important;
 }
+
+.progress{
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+.progress-bar{
+    background-color: #ffffff;
+}
